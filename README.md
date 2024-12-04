@@ -1,8 +1,9 @@
-# React + Vite
+# React Pizza Website  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React kullanılarak geliştirilmiş, pizza menüsü ve ekstra seçenekler sunan basit ve kullanıcı dostu bir web uygulaması. Bu proje, React bileşenleri, state yönetimi ve props kullanımını öğrenmek ve uygulamak için tasarlanmıştır.  
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Kullanılan Teknolojiler  
+- React  
+- Bootstrap  
+- JavaScript  
+- HTML & CSS  
